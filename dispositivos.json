@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": 1,
+        "nombre": "Router Cisco 2901",
+        "tipo": "Router"
+    },
+    "3": {
+        "id": 3,
+        "nombre": "Firewall FortiGate 60E",
+        "tipo": "Firewall"
+    },
+    "4": {
+        "id": 4,
+        "nombre": "Access Point Ubiquiti UniFi AC",
+        "tipo": "Access Point"
+    },
+    "5": {
+        "id": 5,
+        "nombre": "Servidor Dell PowerEdge R740",
+        "tipo": "Servidor"
+    },
+    "6": {
+        "id": 6,
+        "nombre": "Switch Cisco",
+        "tipo": "Switch"
+    },
+    "7": {
+        "id": 7,
+        "nombre": "Router MikroTik Actualizado",
+        "tipo": "Router"
+    },
+    "8": {
+        "id": 8,
+        "nombre": "Switch Cisco",
+        "tipo": "Switch"
+    },
+    "9": {
+        "id": 9,
+        "nombre": "Router Cisco Actualizado",
+        "tipo": "Router"
+    }
+}
